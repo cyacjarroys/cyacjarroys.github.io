@@ -4,7 +4,6 @@ Interests/Likes:
 - Anime
 - Food
 - Kpop
-- Cats
 ---
 ## Japan
 **1. What is Japan?**

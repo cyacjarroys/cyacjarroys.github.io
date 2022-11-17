@@ -4,6 +4,7 @@ Interests/Likes:
 - Anime
 - Food
 - Kpop
+
 ---
 ## Japan
 **1. What is Japan?**
@@ -12,3 +13,5 @@ Interests/Likes:
 ---
 **2. What is Japan known for?**
 - Is known for traditional arts, like calligraphy and and flower arranging.
+
+```{jakdhioaw}```

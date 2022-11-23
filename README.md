@@ -10,4 +10,4 @@
 >**What is Japan known for?**
 - Is known for traditional arts, like calligraphy and and flower arranging.
 
-
+![alt text](https://media.timeout.com/images/105240237/image.jpg)

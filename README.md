@@ -6,6 +6,7 @@
 - Japan is an island in East Asia. An archipelago, or string of islands, on the eastern edge of Asia.
 - Japan consists of 6,852 islands but has four main islands: **Hokkaido, Honshu, Shikoku, and Kyushu.**
 ---
+
 >**What is Japan known for?**
 - Is known for traditional arts, like calligraphy and flower arranging.
 

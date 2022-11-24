@@ -23,7 +23,13 @@
 
 >*Sky Tree*
 
-- A famous tower in Tokyo
+- Tokyo Skytree is a broadcasting and observation tower in Sumida, Tokyo.
+- A famous tower in Tokyo, standing 634 metters (2,080 feet) tall, making it the tallest structure in Japan.
+- This was designed by Nikken Sekkei, a Japanese architectural.
+>>The design of this amazing tower is based on three concepts: The design of this amazing tower is based on three concepts:
+- Fusion of neofuturistic and the traditional beauty of Japan.
+- Catalyst for revitalization of the city.
+- Contribution to disaster prevention - "Safety and Security".
 
 
 >*Mount Fuji*
